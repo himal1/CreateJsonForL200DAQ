@@ -1,0 +1,1046 @@
+{
+    "S71": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x210",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "6",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S70": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x210",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "6",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S90": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x220",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "5",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S29": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x220",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "5",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S24": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "3",
+            "board_id": "0x230",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "4",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S23": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "3",
+            "board_id": "0x230",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "4",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S02": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "3",
+            "board_id": "0x230",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "3",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S03": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "3",
+            "board_id": "0x230",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "3",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S32": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "4",
+            "board_id": "0x240",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "2",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S36": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "4",
+            "board_id": "0x240",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "2",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S58": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "5",
+            "board_id": "0x250",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "1",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S57": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "5",
+            "board_id": "0x250",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "1",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S96": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "5",
+            "board_id": "0x250",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "0",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S95": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "5",
+            "board_id": "0x250",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "0",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S60": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "0",
+            "board_id": "0x200",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "8",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S61": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "0",
+            "board_id": "0x200",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "8",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S83": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x210",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "2",
+            "board_string": "7",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S73": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x210",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "3",
+            "board_string": "7",
+            "crate": "0"
+        },
+        "det_type": "IB"
+    },
+    "S85": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x290",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "7",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S86": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x290",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "7",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S37": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x290",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "6",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S07": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x290",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "6",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S55": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "0",
+            "board_id": "0x200",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "5",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S54": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "0",
+            "board_id": "0x200",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "5",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S28": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x210",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "4",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S17": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x210",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "4",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S30": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "3",
+            "board_id": "0x230",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "3",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S31": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "3",
+            "board_id": "0x230",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "3",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S94": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "4",
+            "board_id": "0x240",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "2",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S27": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "4",
+            "board_id": "0x240",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "2",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S43": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x280",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "1",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S40": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x280",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "1",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S11": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "6",
+            "board_id": "0x260",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "0",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S12": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "6",
+            "board_id": "0x260",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "0",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S46": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "6",
+            "board_id": "0x260",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "19",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S47": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "6",
+            "board_id": "0x260",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "19",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S98": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "4",
+            "board_id": "0x240",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "18",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S08": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "4",
+            "board_id": "0x240",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "18",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S67": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x220",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "17",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S68": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x220",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "17",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S42": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x220",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "16",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S41": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x220",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "16",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S99": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "5",
+            "board_id": "0x250",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "15",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S65": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "5",
+            "board_id": "0x250",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "15",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S87": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "6",
+            "board_id": "0x260",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "14",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S82": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "6",
+            "board_id": "0x260",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "14",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S20": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x270",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "13",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S80": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x270",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "13",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S26": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x270",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "12",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S25": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x270",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "12",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S15": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x270",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "11",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S97": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x270",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "11",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S48": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x280",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "10",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S49": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x280",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "10",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S53": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x280",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "9",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S52": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x280",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "9",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S50": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x290",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "1",
+            "board_string": "8",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    },
+    "S51": {
+        "system": "spm",
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x290",
+            "crate": "2"
+        },
+        "low_voltage": {
+            "board_chan": "--",
+            "board_slot": "--",
+            "board_B_pos": "4",
+            "board_string": "8",
+            "crate": "0"
+        },
+        "det_type": "OB"
+    }
+}

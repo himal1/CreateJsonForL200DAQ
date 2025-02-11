@@ -72,7 +72,7 @@ def add_loc_FormatSiPM(df):
 
   # Create a new column increasing linearly with "angle"
   df_i["loc"] = pd.factorize(df_i["Angle"])[0]
-
+  df_i["loc"] = df_i["loc"]+1
   df_i = df_i.sort_values(by="Fiber ID")
   df_i
 
@@ -83,7 +83,7 @@ def add_loc_FormatSiPM(df):
 
   # Create a new column increasing linearly with "angle"
   df_o["loc"] = pd.factorize(df_o["Angle"])[0]
-
+  df_o["loc"] = df_o["loc"]+1
   df_o = df_o.sort_values(by="Fiber ID")
   df_o
   df_t = pd.concat([df_i, df_o], axis=0)

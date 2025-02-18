@@ -44,7 +44,7 @@ def replace_862(value):
         # Increment the counter for 862
         count = counter.get(value, 0) + 1
         counter[value] = count
-        return f"{value}_{count}"
+        return f"{value}_{count:02}"
     return value
 
 def cleandf(df):

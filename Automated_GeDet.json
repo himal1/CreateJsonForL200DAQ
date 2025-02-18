@@ -1,5 +1,5 @@
 {
-    "BF862_1": {
+    "BF862_01": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -30,7 +30,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_2": {
+    "BF862_02": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -61,7 +61,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_3": {
+    "BF862_03": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -92,7 +92,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_4": {
+    "BF862_04": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -123,7 +123,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_5": {
+    "BF862_05": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -154,7 +154,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_6": {
+    "BF862_06": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -185,7 +185,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_7": {
+    "BF862_07": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -216,7 +216,7 @@
             "head_card_dig": "01"
         }
     },
-    "BF862_8": {
+    "BF862_08": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -247,7 +247,7 @@
             "head_card_dig": "--"
         }
     },
-    "BF862_9": {
+    "BF862_09": {
         "system": "ged",
         "string": {
             "number": "--",

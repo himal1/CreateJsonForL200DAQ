@@ -6,28 +6,28 @@
             "position": "--"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
-            "crate": "1"
+            "board_slot": "1",
+            "board_id": "0x410",
+            "crate": "0"
         },
         "high_voltage": {
             "board_chan": "--",
             "cable": "--",
             "board_slot": "--",
-            "flange_id": "B28",
-            "flange_pos": "Y",
+            "flange_id": "--",
+            "flange_pos": "--",
             "crate": "0"
         },
         "det_type": "--",
         "electronics": {
-            "fanout_card": "15",
+            "fanout_card": "2",
             "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-0",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
+            "raspberrypi": "1",
+            "cc4_ch": "B5-0",
+            "head_card_ana": "S0",
+            "head_card_dig": "4"
         }
     },
     "BF862_02": {
@@ -39,690 +39,8 @@
         "daq": {
             "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B29",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "15",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-1",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
-        }
-    },
-    "BF862_03": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B30",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "15",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-2",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
-        }
-    },
-    "BF862_04": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "4",
-            "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B31",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "15",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-3",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
-        }
-    },
-    "BF862_05": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B32",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "15",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-4",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
-        }
-    },
-    "BF862_06": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B33",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "15",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-5",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
-        }
-    },
-    "BF862_07": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x350",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B34",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "15",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "A4-6",
-            "head_card_ana": "S3",
-            "head_card_dig": "01"
-        }
-    },
-    "BF862_08": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x350",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B35",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "BF862_09": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x350",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "B36",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "BF862_10": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "4",
-            "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x350",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "BF862_11": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x350",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "BF862_12": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x360",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "BF862_13": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x360",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "BF862_14": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x360",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "--",
-            "lmfe_id": "--",
-            "raspberrypi": "--",
-            "cc4_ch": "-----",
-            "head_card_ana": "--",
-            "head_card_dig": "--"
-        }
-    },
-    "P00538A": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "1"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
             "board_slot": "1",
             "board_id": "0x410",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "0",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D22",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "1",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-0",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00573A": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "2"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x410",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "1",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D23",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "29",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-1",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00573B": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "3"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x410",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "2",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D24",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "36",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-2",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00574B": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "4"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x410",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "3",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D25",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "6",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-3",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00574C": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "5"
-        },
-        "daq": {
-            "board_ch": "4",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x410",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "4",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D26",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "61",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-4",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00575A": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "6"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x410",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "5",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D27",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "55",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-5",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00698A": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "7"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x420",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "6",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D28",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "1",
-            "lmfe_id": "58",
-            "raspberrypi": "1",
-            "cc4_ch": "A5-6",
-            "head_card_ana": "S1",
-            "head_card_dig": "00"
-        }
-    },
-    "P00748A": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "8"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x420",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "7",
-            "cable": "--",
-            "board_slot": "0",
-            "flange_id": "D29",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "2",
-            "lmfe_id": "64",
-            "raspberrypi": "1",
-            "cc4_ch": "B5-0",
-            "head_card_ana": "S0",
-            "head_card_dig": "04"
-        }
-    },
-    "P00909B": {
-        "system": "ged",
-        "string": {
-            "number": "3",
-            "position": "9"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x420",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "0",
-            "cable": "--",
-            "board_slot": "1",
-            "flange_id": "D30",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "2",
-            "lmfe_id": "101",
-            "raspberrypi": "1",
-            "cc4_ch": "B5-1",
-            "head_card_ana": "S0",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_15": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x420",
             "crate": "0"
         },
         "high_voltage": {
@@ -740,20 +58,20 @@
             "raspberrypi": "1",
             "cc4_ch": "B5-2",
             "head_card_ana": "S0",
-            "head_card_dig": "04"
+            "head_card_dig": "4"
         }
     },
-    "BF862_16": {
+    "BF862_03": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x420",
+            "board_slot": "1",
+            "board_id": "0x410",
             "crate": "0"
         },
         "high_voltage": {
@@ -771,20 +89,20 @@
             "raspberrypi": "1",
             "cc4_ch": "B5-3",
             "head_card_ana": "S0",
-            "head_card_dig": "04"
+            "head_card_dig": "4"
         }
     },
-    "BF862_17": {
+    "BF862_04": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x420",
+            "board_slot": "1",
+            "board_id": "0x410",
             "crate": "0"
         },
         "high_voltage": {
@@ -802,26 +120,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B5-4",
             "head_card_ana": "S0",
-            "head_card_dig": "04"
+            "head_card_dig": "4"
         }
     },
-    "B00061B": {
+    "B00032C": {
         "system": "ged",
         "string": {
             "number": "4",
             "position": "1"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x430",
+            "board_slot": "1",
+            "board_id": "0x410",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "1",
+            "board_chan": "0",
             "cable": "--",
-            "board_slot": "1",
+            "board_slot": "0",
             "flange_id": "D10",
             "flange_pos": "X",
             "crate": "0"
@@ -833,57 +151,57 @@
             "raspberrypi": "1",
             "cc4_ch": "B5-5",
             "head_card_ana": "S0",
-            "head_card_dig": "04"
-        }
-    },
-    "B00032C": {
-        "system": "ged",
-        "string": {
-            "number": "4",
-            "position": "2"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x430",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "2",
-            "cable": "--",
-            "board_slot": "1",
-            "flange_id": "D11",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "bege",
-        "electronics": {
-            "fanout_card": "2",
-            "lmfe_id": "21",
-            "raspberrypi": "1",
-            "cc4_ch": "B5-6",
-            "head_card_ana": "S0",
-            "head_card_dig": "04"
+            "head_card_dig": "4"
         }
     },
     "V00048B": {
         "system": "ged",
         "string": {
             "number": "4",
-            "position": "3"
+            "position": "2"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x430",
+            "board_slot": "2",
+            "board_id": "0x420",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "3",
+            "board_chan": "1",
             "cable": "--",
-            "board_slot": "1",
+            "board_slot": "0",
+            "flange_id": "D11",
+            "flange_pos": "X",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "2",
+            "lmfe_id": "21",
+            "raspberrypi": "1",
+            "cc4_ch": "B5-6",
+            "head_card_ana": "S0",
+            "head_card_dig": "4"
+        }
+    },
+    "V00050A": {
+        "system": "ged",
+        "string": {
+            "number": "4",
+            "position": "3"
+        },
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "2",
+            "board_id": "0x420",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "2",
+            "cable": "--",
+            "board_slot": "0",
             "flange_id": "D12",
             "flange_pos": "X",
             "crate": "0"
@@ -895,26 +213,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-0",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "V00050A": {
+    "V01240A": {
         "system": "ged",
         "string": {
             "number": "4",
             "position": "4"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x430",
+            "board_slot": "2",
+            "board_id": "0x420",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "4",
+            "board_chan": "3",
             "cable": "--",
-            "board_slot": "1",
+            "board_slot": "0",
             "flange_id": "D13",
             "flange_pos": "X",
             "crate": "0"
@@ -926,20 +244,20 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-1",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "BF862_18": {
+    "BF862_05": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x430",
+            "board_slot": "2",
+            "board_id": "0x420",
             "crate": "0"
         },
         "high_voltage": {
@@ -957,26 +275,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-2",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "V01240A": {
+    "V05267A": {
         "system": "ged",
         "string": {
             "number": "4",
             "position": "5"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x430",
+            "board_slot": "2",
+            "board_id": "0x420",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "5",
+            "board_chan": "4",
             "cable": "--",
-            "board_slot": "1",
+            "board_slot": "0",
             "flange_id": "D14",
             "flange_pos": "X",
             "crate": "0"
@@ -988,26 +306,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-3",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "V05267A": {
+    "V00048A": {
         "system": "ged",
         "string": {
             "number": "4",
             "position": "6"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x440",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "6",
+            "board_chan": "5",
             "cable": "--",
-            "board_slot": "1",
+            "board_slot": "0",
             "flange_id": "D15",
             "flange_pos": "X",
             "crate": "0"
@@ -1019,7 +337,7 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-4",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
     "V07302A": {
@@ -1029,16 +347,16 @@
             "position": "7"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x440",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "7",
+            "board_chan": "6",
             "cable": "--",
-            "board_slot": "1",
+            "board_slot": "0",
             "flange_id": "D16",
             "flange_pos": "X",
             "crate": "0"
@@ -1050,26 +368,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-5",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "V05261A": {
+    "V05268A": {
         "system": "ged",
         "string": {
             "number": "4",
             "position": "8"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x440",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "0",
+            "board_chan": "7",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "0",
             "flange_id": "D17",
             "flange_pos": "X",
             "crate": "0"
@@ -1081,7 +399,38 @@
             "raspberrypi": "2",
             "cc4_ch": "E5-6",
             "head_card_ana": "R1",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
+        }
+    },
+    "V05261A": {
+        "system": "ged",
+        "string": {
+            "number": "4",
+            "position": "9"
+        },
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "1",
+            "board_id": "0x410",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "0",
+            "cable": "--",
+            "board_slot": "1",
+            "flange_id": "D18",
+            "flange_pos": "X",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "2",
+            "lmfe_id": "101",
+            "raspberrypi": "1",
+            "cc4_ch": "B5-1",
+            "head_card_ana": "S0",
+            "head_card_dig": "4"
         }
     },
     "V03421A": {
@@ -1091,16 +440,16 @@
             "position": "1"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x440",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "1",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "1",
             "flange_id": "C30",
             "flange_pos": "Y",
             "crate": "0"
@@ -1112,7 +461,7 @@
             "raspberrypi": "2",
             "cc4_ch": "E4-0",
             "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "head_card_dig": "1"
         }
     },
     "V03422A": {
@@ -1122,16 +471,16 @@
             "position": "2"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x440",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "2",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "1",
             "flange_id": "C31",
             "flange_pos": "Y",
             "crate": "0"
@@ -1143,26 +492,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E4-1",
             "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "head_card_dig": "1"
         }
     },
-    "V08682B": {
+    "V10447A": {
         "system": "ged",
         "string": {
             "number": "5",
             "position": "3"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x440",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "3",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "1",
             "flange_id": "C32",
             "flange_pos": "Y",
             "crate": "0"
@@ -1174,26 +523,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E4-2",
             "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "head_card_dig": "1"
         }
     },
-    "V09724A": {
+    "V11924A": {
         "system": "ged",
         "string": {
             "number": "5",
             "position": "4"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x450",
+            "board_slot": "3",
+            "board_id": "0x430",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "4",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "1",
             "flange_id": "C33",
             "flange_pos": "Y",
             "crate": "0"
@@ -1205,57 +554,57 @@
             "raspberrypi": "2",
             "cc4_ch": "E4-3",
             "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "head_card_dig": "1"
         }
     },
-    "V09374A": {
+    "V08682A": {
         "system": "ged",
         "string": {
-            "number": "5",
-            "position": "5"
+            "number": "11",
+            "position": "1"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x450",
+            "board_slot": "10",
+            "board_id": "0x4A0",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "5",
+            "board_chan": "0",
             "cable": "--",
-            "board_slot": "2",
-            "flange_id": "C34",
+            "board_slot": "5",
+            "flange_id": "B10",
             "flange_pos": "Y",
             "crate": "0"
         },
         "det_type": "icpc",
         "electronics": {
-            "fanout_card": "4",
-            "lmfe_id": "71",
-            "raspberrypi": "2",
-            "cc4_ch": "E4-4",
-            "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "fanout_card": "12",
+            "lmfe_id": "20",
+            "raspberrypi": "1",
+            "cc4_ch": "B3-0",
+            "head_card_ana": "S5",
+            "head_card_dig": "3"
         }
     },
-    "V10447B": {
+    "V09724A": {
         "system": "ged",
         "string": {
             "number": "5",
             "position": "6"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x450",
+            "board_slot": "4",
+            "board_id": "0x440",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "6",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "1",
             "flange_id": "C35",
             "flange_pos": "Y",
             "crate": "0"
@@ -1267,26 +616,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E4-5",
             "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "head_card_dig": "1"
         }
     },
-    "V11924B": {
+    "V09374A": {
         "system": "ged",
         "string": {
             "number": "5",
             "position": "7"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x450",
+            "board_slot": "4",
+            "board_id": "0x440",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "7",
             "cable": "--",
-            "board_slot": "2",
+            "board_slot": "1",
             "flange_id": "C36",
             "flange_pos": "Y",
             "crate": "0"
@@ -1294,11 +643,11 @@
         "det_type": "icpc",
         "electronics": {
             "fanout_card": "4",
-            "lmfe_id": "147",
+            "lmfe_id": "145",
             "raspberrypi": "2",
             "cc4_ch": "E4-6",
             "head_card_ana": "R3",
-            "head_card_dig": "01"
+            "head_card_dig": "1"
         }
     },
     "V02160A": {
@@ -1308,16 +657,16 @@
             "position": "1"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x450",
+            "board_slot": "4",
+            "board_id": "0x440",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "0",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C20",
             "flange_pos": "X",
             "crate": "0"
@@ -1329,7 +678,7 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-0",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
     "V02162B": {
@@ -1339,16 +688,16 @@
             "position": "2"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "5",
-            "board_id": "0x450",
+            "board_slot": "4",
+            "board_id": "0x440",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "1",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C21",
             "flange_pos": "X",
             "crate": "0"
@@ -1360,7 +709,7 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-1",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
     "V05612A": {
@@ -1370,16 +719,16 @@
             "position": "3"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x460",
+            "board_slot": "4",
+            "board_id": "0x440",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "2",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C23",
             "flange_pos": "X",
             "crate": "0"
@@ -1391,7 +740,7 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-2",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
     "V05266A": {
@@ -1401,16 +750,16 @@
             "position": "4"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x460",
+            "board_slot": "5",
+            "board_id": "0x450",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "3",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C24",
             "flange_pos": "Y",
             "crate": "0"
@@ -1422,7 +771,7 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-3",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
     "V05266B": {
@@ -1432,16 +781,16 @@
             "position": "5"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x460",
+            "board_slot": "5",
+            "board_id": "0x450",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "4",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C25",
             "flange_pos": "Y",
             "crate": "0"
@@ -1453,7 +802,7 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-4",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
     "V07647A": {
@@ -1463,16 +812,16 @@
             "position": "6"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x460",
+            "board_slot": "5",
+            "board_id": "0x450",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "5",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C26",
             "flange_pos": "Y",
             "crate": "0"
@@ -1484,7 +833,7 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-5",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
     "V07647B": {
@@ -1494,16 +843,16 @@
             "position": "7"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x460",
+            "board_slot": "5",
+            "board_id": "0x450",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "6",
             "cable": "--",
-            "board_slot": "3",
+            "board_slot": "2",
             "flange_id": "C27",
             "flange_pos": "Y",
             "crate": "0"
@@ -1515,165 +864,10 @@
             "raspberrypi": "2",
             "cc4_ch": "F4-6",
             "head_card_ana": "R2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V07302B": {
-        "system": "ged",
-        "string": {
-            "number": "6",
-            "position": "8"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "6",
-            "board_id": "0x460",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "7",
-            "cable": "--",
-            "board_slot": "3",
-            "flange_id": "C28",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "140",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-0",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "V06649A": {
-        "system": "ged",
-        "string": {
-            "number": "6",
-            "position": "9"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "7",
-            "board_id": "0x470",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "0",
-            "cable": "--",
-            "board_slot": "4",
-            "flange_id": "C29",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "145",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-1",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_19": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "7",
-            "board_id": "0x470",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "C10",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "--",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-2",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_20": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "7",
-            "board_id": "0x470",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "C11",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "--",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-3",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_21": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "7",
-            "board_id": "0x470",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "C12",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "--",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-4",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_22": {
+    "BF862_06": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -1682,78 +876,16 @@
         "daq": {
             "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "7",
-            "board_id": "0x470",
+            "board_slot": "5",
+            "board_id": "0x450",
             "crate": "0"
         },
         "high_voltage": {
             "board_chan": "--",
             "cable": "--",
             "board_slot": "--",
-            "flange_id": "C13",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "--",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-5",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_23": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "7",
-            "board_id": "0x470",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "C14",
-            "flange_pos": "X",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "6",
-            "lmfe_id": "--",
-            "raspberrypi": "2",
-            "cc4_ch": "F2-6",
-            "head_card_ana": "R6",
-            "head_card_dig": "04"
-        }
-    },
-    "BF862_24": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "8",
-            "board_id": "0x480",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "C15",
-            "flange_pos": "X",
+            "flange_id": "--",
+            "flange_pos": "--",
             "crate": "0"
         },
         "det_type": "--",
@@ -1763,20 +895,20 @@
             "raspberrypi": "2",
             "cc4_ch": "E2-0",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
-    "BF862_25": {
+    "BF862_07": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "8",
-            "board_id": "0x480",
+            "board_slot": "5",
+            "board_id": "0x450",
             "crate": "0"
         },
         "high_voltage": {
@@ -1794,20 +926,20 @@
             "raspberrypi": "2",
             "cc4_ch": "E2-1",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
-    "BF862_26": {
+    "BF862_08": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "8",
-            "board_id": "0x480",
+            "board_slot": "6",
+            "board_id": "0x460",
             "crate": "0"
         },
         "high_voltage": {
@@ -1825,38 +957,38 @@
             "raspberrypi": "2",
             "cc4_ch": "E2-2",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
-    "BF862_27": {
+    "V07302B": {
         "system": "ged",
         "string": {
-            "number": "--",
-            "position": "--"
+            "number": "6",
+            "position": "8"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "8",
-            "board_id": "0x480",
+            "board_slot": "6",
+            "board_id": "0x460",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "--",
+            "board_chan": "7",
             "cable": "--",
-            "board_slot": "--",
-            "flange_id": "C16",
-            "flange_pos": "X",
+            "board_slot": "2",
+            "flange_id": "C28",
+            "flange_pos": "Y",
             "crate": "0"
         },
-        "det_type": "--",
+        "det_type": "icpc",
         "electronics": {
             "fanout_card": "7",
-            "lmfe_id": "--",
+            "lmfe_id": "140",
             "raspberrypi": "2",
             "cc4_ch": "E2-3",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
     "B00000C": {
@@ -1866,16 +998,16 @@
             "position": "1"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "8",
-            "board_id": "0x480",
+            "board_slot": "6",
+            "board_id": "0x460",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "1",
+            "board_chan": "0",
             "cable": "--",
-            "board_slot": "4",
+            "board_slot": "3",
             "flange_id": "A37",
             "flange_pos": "Z",
             "crate": "0"
@@ -1887,26 +1019,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E2-4",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
-    "B00076C": {
+    "B00061B": {
         "system": "ged",
         "string": {
             "number": "8",
             "position": "2"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "8",
-            "board_id": "0x480",
+            "board_slot": "6",
+            "board_id": "0x460",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "2",
+            "board_chan": "1",
             "cable": "--",
-            "board_slot": "4",
+            "board_slot": "3",
             "flange_id": "A46",
             "flange_pos": "Z",
             "crate": "0"
@@ -1918,26 +1050,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E2-5",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
-    "B00079B": {
+    "B00076C": {
         "system": "ged",
         "string": {
             "number": "8",
             "position": "3"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "9",
-            "board_id": "0x490",
+            "board_slot": "6",
+            "board_id": "0x460",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "3",
+            "board_chan": "2",
             "cable": "--",
-            "board_slot": "4",
+            "board_slot": "3",
             "flange_id": "C18",
             "flange_pos": "X",
             "crate": "0"
@@ -1949,26 +1081,26 @@
             "raspberrypi": "2",
             "cc4_ch": "E2-6",
             "head_card_ana": "R7",
-            "head_card_dig": "00"
+            "head_card_dig": "0"
         }
     },
-    "B00079C": {
+    "B00079B": {
         "system": "ged",
         "string": {
             "number": "8",
             "position": "4"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "9",
-            "board_id": "0x490",
+            "board_slot": "6",
+            "board_id": "0x460",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "4",
+            "board_chan": "3",
             "cable": "--",
-            "board_slot": "4",
+            "board_slot": "3",
             "flange_id": "A41",
             "flange_pos": "Z",
             "crate": "0"
@@ -1980,51 +1112,51 @@
             "raspberrypi": "1",
             "cc4_ch": "A1-0",
             "head_card_ana": "S9",
-            "head_card_dig": "07"
+            "head_card_dig": "7"
         }
     },
-    "V00048A": {
+    "B00079C": {
         "system": "ged",
         "string": {
             "number": "8",
             "position": "5"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "9",
-            "board_id": "0x490",
+            "board_slot": "7",
+            "board_id": "0x470",
             "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "5",
+            "board_chan": "4",
             "cable": "--",
-            "board_slot": "4",
+            "board_slot": "3",
             "flange_id": "A43",
             "flange_pos": "Z",
             "crate": "0"
         },
-        "det_type": "icpc",
+        "det_type": "bege",
         "electronics": {
             "fanout_card": "8",
             "lmfe_id": "90",
             "raspberrypi": "1",
             "cc4_ch": "A1-1",
             "head_card_ana": "S9",
-            "head_card_dig": "07"
+            "head_card_dig": "7"
         }
     },
-    "BF862_28": {
+    "BF862_09": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "9",
-            "board_id": "0x490",
+            "board_slot": "7",
+            "board_id": "0x470",
             "crate": "0"
         },
         "high_voltage": {
@@ -2042,20 +1174,20 @@
             "raspberrypi": "1",
             "cc4_ch": "A1-2",
             "head_card_ana": "S9",
-            "head_card_dig": "07"
+            "head_card_dig": "7"
         }
     },
-    "BF862_29": {
+    "BF862_10": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "9",
-            "board_id": "0x490",
+            "board_slot": "7",
+            "board_id": "0x470",
             "crate": "0"
         },
         "high_voltage": {
@@ -2073,10 +1205,444 @@
             "raspberrypi": "1",
             "cc4_ch": "A1-3",
             "head_card_ana": "S9",
-            "head_card_dig": "07"
+            "head_card_dig": "7"
         }
     },
-    "BF862_30": {
+    "BF862_11": {
+        "system": "ged",
+        "string": {
+            "number": "--",
+            "position": "--"
+        },
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x470",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "--",
+            "cable": "--",
+            "board_slot": "--",
+            "flange_id": "--",
+            "flange_pos": "--",
+            "crate": "0"
+        },
+        "det_type": "--",
+        "electronics": {
+            "fanout_card": "8",
+            "lmfe_id": "--",
+            "raspberrypi": "1",
+            "cc4_ch": "A1-4",
+            "head_card_ana": "S9",
+            "head_card_dig": "7"
+        }
+    },
+    "V01404A": {
+        "system": "ged",
+        "string": {
+            "number": "8",
+            "position": "6"
+        },
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x470",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "5",
+            "cable": "--",
+            "board_slot": "3",
+            "flange_id": "A44",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "8",
+            "lmfe_id": "88",
+            "raspberrypi": "1",
+            "cc4_ch": "A1-5",
+            "head_card_ana": "S9",
+            "head_card_dig": "7"
+        }
+    },
+    "BF862_12": {
+        "system": "ged",
+        "string": {
+            "number": "--",
+            "position": "--"
+        },
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "7",
+            "board_id": "0x470",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "--",
+            "cable": "--",
+            "board_slot": "--",
+            "flange_id": "A45",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "--",
+        "electronics": {
+            "fanout_card": "8",
+            "lmfe_id": "--",
+            "raspberrypi": "1",
+            "cc4_ch": "A1-6",
+            "head_card_ana": "S9",
+            "head_card_dig": "7"
+        }
+    },
+    "B00000D": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "1"
+        },
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x480",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "6",
+            "cable": "--",
+            "board_slot": "3",
+            "flange_id": "A23",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "bege",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "45",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-0",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "BF862_13": {
+        "system": "ged",
+        "string": {
+            "number": "--",
+            "position": "--"
+        },
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x480",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "--",
+            "cable": "--",
+            "board_slot": "--",
+            "flange_id": "--",
+            "flange_pos": "--",
+            "crate": "0"
+        },
+        "det_type": "--",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "--",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-1",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "B00002C": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "2"
+        },
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x480",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "7",
+            "cable": "--",
+            "board_slot": "3",
+            "flange_id": "A24",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "bege",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "14",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-2",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "B00035A": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "3"
+        },
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x480",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "0",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A25",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "bege",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "16",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-3",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "B00035B": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "4"
+        },
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x480",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "1",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A26",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "bege",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "18",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-4",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "V00050B": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "5"
+        },
+        "daq": {
+            "board_ch": "5",
+            "adc_serial": "--",
+            "board_slot": "8",
+            "board_id": "0x480",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "2",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A27",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "96",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-5",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "V04549A": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "6"
+        },
+        "daq": {
+            "board_ch": "0",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x490",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "3",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A28",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "10",
+            "lmfe_id": "51",
+            "raspberrypi": "1",
+            "cc4_ch": "B1-6",
+            "head_card_ana": "S8",
+            "head_card_dig": "2"
+        }
+    },
+    "BF862_14": {
+        "system": "ged",
+        "string": {
+            "number": "--",
+            "position": "--"
+        },
+        "daq": {
+            "board_ch": "1",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x490",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "--",
+            "cable": "--",
+            "board_slot": "--",
+            "flange_id": "--",
+            "flange_pos": "--",
+            "crate": "0"
+        },
+        "det_type": "--",
+        "electronics": {
+            "fanout_card": "11",
+            "lmfe_id": "--",
+            "raspberrypi": "1",
+            "cc4_ch": "B2-0",
+            "head_card_ana": "S6",
+            "head_card_dig": "9"
+        }
+    },
+    "V06643A": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "7"
+        },
+        "daq": {
+            "board_ch": "2",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x490",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "4",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A29",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "11",
+            "lmfe_id": "80",
+            "raspberrypi": "1",
+            "cc4_ch": "B2-1",
+            "head_card_ana": "S6",
+            "head_card_dig": "9"
+        }
+    },
+    "V07298B": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "8"
+        },
+        "daq": {
+            "board_ch": "3",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x490",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "5",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A30",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "11",
+            "lmfe_id": "104",
+            "raspberrypi": "1",
+            "cc4_ch": "B2-2",
+            "head_card_ana": "S6",
+            "head_card_dig": "9"
+        }
+    },
+    "V00074A": {
+        "system": "ged",
+        "string": {
+            "number": "10",
+            "position": "9"
+        },
+        "daq": {
+            "board_ch": "4",
+            "adc_serial": "--",
+            "board_slot": "9",
+            "board_id": "0x490",
+            "crate": "0"
+        },
+        "high_voltage": {
+            "board_chan": "6",
+            "cable": "--",
+            "board_slot": "4",
+            "flange_id": "A31",
+            "flange_pos": "Z",
+            "crate": "0"
+        },
+        "det_type": "icpc",
+        "electronics": {
+            "fanout_card": "11",
+            "lmfe_id": "105",
+            "raspberrypi": "1",
+            "cc4_ch": "B2-3",
+            "head_card_ana": "S6",
+            "head_card_dig": "9"
+        }
+    },
+    "BF862_15": {
         "system": "ged",
         "string": {
             "number": "--",
@@ -2099,677 +1665,26 @@
         },
         "det_type": "--",
         "electronics": {
-            "fanout_card": "8",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "A1-4",
-            "head_card_ana": "S9",
-            "head_card_dig": "07"
-        }
-    },
-    "V01404A": {
-        "system": "ged",
-        "string": {
-            "number": "8",
-            "position": "6"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "10",
-            "board_id": "0x4A0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "6",
-            "cable": "--",
-            "board_slot": "4",
-            "flange_id": "A44",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "8",
-            "lmfe_id": "88",
-            "raspberrypi": "1",
-            "cc4_ch": "A1-5",
-            "head_card_ana": "S9",
-            "head_card_dig": "07"
-        }
-    },
-    "V05268A": {
-        "system": "ged",
-        "string": {
-            "number": "8",
-            "position": "7"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "10",
-            "board_id": "0x4A0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "7",
-            "cable": "--",
-            "board_slot": "4",
-            "flange_id": "A45",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "8",
-            "lmfe_id": "92",
-            "raspberrypi": "1",
-            "cc4_ch": "A1-6",
-            "head_card_ana": "S9",
-            "head_card_dig": "07"
-        }
-    },
-    "BF862_31": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "10",
-            "board_id": "0x4A0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-0",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "P00574A": {
-        "system": "ged",
-        "string": {
-            "number": "9",
-            "position": "1"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "10",
-            "board_id": "0x4A0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "0",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A10",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "31",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-1",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "P00664A": {
-        "system": "ged",
-        "string": {
-            "number": "9",
-            "position": "2"
-        },
-        "daq": {
-            "board_ch": "4",
-            "adc_serial": "--",
-            "board_slot": "10",
-            "board_id": "0x4A0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "1",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A11",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "32",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-2",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "P00661C": {
-        "system": "ged",
-        "string": {
-            "number": "9",
-            "position": "3"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "10",
-            "board_id": "0x4A0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "2",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A12",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "ppc",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "33",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-3",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "BF862_32": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "11",
-            "board_id": "0x4B0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-4",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "BF862_33": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "11",
-            "board_id": "0x4B0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-5",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "BF862_34": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "11",
-            "board_id": "0x4B0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "9",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "A2-6",
-            "head_card_ana": "S7",
-            "head_card_dig": "08"
-        }
-    },
-    "B00000D": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "1"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "11",
-            "board_id": "0x4B0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "3",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A23",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "bege",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "45",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-0",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "BF862_35": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "4",
-            "adc_serial": "--",
-            "board_slot": "11",
-            "board_id": "0x4B0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-1",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "B00002C": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "2"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "11",
-            "board_id": "0x4B0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "4",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A24",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "bege",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "14",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-2",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "B00035A": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "3"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "12",
-            "board_id": "0x4C0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "5",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A25",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "bege",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "16",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-3",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "B00035B": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "4"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "12",
-            "board_id": "0x4C0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "6",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A26",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "bege",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "18",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-4",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "V00050B": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "5"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "12",
-            "board_id": "0x4C0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "7",
-            "cable": "--",
-            "board_slot": "5",
-            "flange_id": "A27",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "96",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-5",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "V04549A": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "6"
-        },
-        "daq": {
-            "board_ch": "3",
-            "adc_serial": "--",
-            "board_slot": "12",
-            "board_id": "0x4C0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "0",
-            "cable": "--",
-            "board_slot": "6",
-            "flange_id": "A28",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "10",
-            "lmfe_id": "51",
-            "raspberrypi": "1",
-            "cc4_ch": "B1-6",
-            "head_card_ana": "S8",
-            "head_card_dig": "02"
-        }
-    },
-    "BF862_36": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "4",
-            "adc_serial": "--",
-            "board_slot": "12",
-            "board_id": "0x4C0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
-            "fanout_card": "11",
-            "lmfe_id": "--",
-            "raspberrypi": "1",
-            "cc4_ch": "B2-0",
-            "head_card_ana": "S6",
-            "head_card_dig": "09"
-        }
-    },
-    "V06643A": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "7"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "12",
-            "board_id": "0x4C0",
-            "crate": "0"
-        },
-        "high_voltage": {
-            "board_chan": "1",
-            "cable": "--",
-            "board_slot": "6",
-            "flange_id": "A29",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "11",
-            "lmfe_id": "80",
-            "raspberrypi": "1",
-            "cc4_ch": "B2-1",
-            "head_card_ana": "S6",
-            "head_card_dig": "09"
-        }
-    },
-    "V07298B": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "8"
-        },
-        "daq": {
-            "board_ch": "0",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x310",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "2",
-            "cable": "--",
-            "board_slot": "6",
-            "flange_id": "A30",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "11",
-            "lmfe_id": "104",
-            "raspberrypi": "1",
-            "cc4_ch": "B2-2",
-            "head_card_ana": "S6",
-            "head_card_dig": "09"
-        }
-    },
-    "V00074A": {
-        "system": "ged",
-        "string": {
-            "number": "10",
-            "position": "9"
-        },
-        "daq": {
-            "board_ch": "1",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x310",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "3",
-            "cable": "--",
-            "board_slot": "6",
-            "flange_id": "A31",
-            "flange_pos": "Z",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "11",
-            "lmfe_id": "105",
-            "raspberrypi": "1",
-            "cc4_ch": "B2-3",
-            "head_card_ana": "S6",
-            "head_card_dig": "09"
-        }
-    },
-    "BF862_37": {
-        "system": "ged",
-        "string": {
-            "number": "--",
-            "position": "--"
-        },
-        "daq": {
-            "board_ch": "2",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x310",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "--",
-            "cable": "--",
-            "board_slot": "--",
-            "flange_id": "--",
-            "flange_pos": "--",
-            "crate": "0"
-        },
-        "det_type": "--",
-        "electronics": {
             "fanout_card": "11",
             "lmfe_id": "--",
             "raspberrypi": "1",
             "cc4_ch": "B2-4",
             "head_card_ana": "S6",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "BF862_38": {
+    "BF862_16": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x310",
-            "crate": "1"
+            "board_slot": "10",
+            "board_id": "0x4A0",
+            "crate": "0"
         },
         "high_voltage": {
             "board_chan": "--",
@@ -2786,21 +1701,21 @@
             "raspberrypi": "1",
             "cc4_ch": "B2-5",
             "head_card_ana": "S6",
-            "head_card_dig": "09"
+            "head_card_dig": "9"
         }
     },
-    "BF862_39": {
+    "BF862_17": {
         "system": "ged",
         "string": {
             "number": "--",
             "position": "--"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x310",
-            "crate": "1"
+            "board_slot": "10",
+            "board_id": "0x4A0",
+            "crate": "0"
         },
         "high_voltage": {
             "board_chan": "--",
@@ -2817,38 +1732,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B2-6",
             "head_card_ana": "S6",
-            "head_card_dig": "09"
-        }
-    },
-    "V08682A": {
-        "system": "ged",
-        "string": {
-            "number": "11",
-            "position": "1"
-        },
-        "daq": {
-            "board_ch": "5",
-            "adc_serial": "--",
-            "board_slot": "1",
-            "board_id": "0x310",
-            "crate": "1"
-        },
-        "high_voltage": {
-            "board_chan": "4",
-            "cable": "--",
-            "board_slot": "6",
-            "flange_id": "B10",
-            "flange_pos": "Y",
-            "crate": "0"
-        },
-        "det_type": "icpc",
-        "electronics": {
-            "fanout_card": "12",
-            "lmfe_id": "20",
-            "raspberrypi": "1",
-            "cc4_ch": "B3-0",
-            "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "9"
         }
     },
     "V09372A": {
@@ -2858,16 +1742,16 @@
             "position": "2"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x320",
-            "crate": "1"
+            "board_slot": "10",
+            "board_id": "0x4A0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "5",
+            "board_chan": "1",
             "cable": "--",
-            "board_slot": "6",
+            "board_slot": "5",
             "flange_id": "B11",
             "flange_pos": "Y",
             "crate": "0"
@@ -2879,7 +1763,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B3-1",
             "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "3"
         }
     },
     "V10437B": {
@@ -2889,16 +1773,16 @@
             "position": "3"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x320",
-            "crate": "1"
+            "board_slot": "10",
+            "board_id": "0x4A0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "6",
+            "board_chan": "2",
             "cable": "--",
-            "board_slot": "6",
+            "board_slot": "5",
             "flange_id": "B12",
             "flange_pos": "Y",
             "crate": "0"
@@ -2910,7 +1794,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B3-2",
             "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "3"
         }
     },
     "V10784A": {
@@ -2920,16 +1804,16 @@
             "position": "4"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x320",
-            "crate": "1"
+            "board_slot": "10",
+            "board_id": "0x4A0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "7",
+            "board_chan": "3",
             "cable": "--",
-            "board_slot": "6",
+            "board_slot": "5",
             "flange_id": "B13",
             "flange_pos": "Y",
             "crate": "0"
@@ -2941,7 +1825,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B3-3",
             "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "3"
         }
     },
     "V11925A": {
@@ -2951,16 +1835,16 @@
             "position": "5"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x320",
-            "crate": "1"
+            "board_slot": "11",
+            "board_id": "0x4B0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "0",
+            "board_chan": "4",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "5",
             "flange_id": "B14",
             "flange_pos": "Y",
             "crate": "0"
@@ -2972,7 +1856,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B3-4",
             "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "3"
         }
     },
     "V11947B": {
@@ -2982,16 +1866,16 @@
             "position": "6"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x320",
-            "crate": "1"
+            "board_slot": "11",
+            "board_id": "0x4B0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "1",
+            "board_chan": "5",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "5",
             "flange_id": "B15",
             "flange_pos": "Y",
             "crate": "0"
@@ -3003,7 +1887,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B3-5",
             "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "3"
         }
     },
     "V02160B": {
@@ -3013,16 +1897,16 @@
             "position": "1"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "2",
-            "board_id": "0x320",
-            "crate": "1"
+            "board_slot": "11",
+            "board_id": "0x4B0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "2",
+            "board_chan": "6",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "5",
             "flange_id": "B18",
             "flange_pos": "Y",
             "crate": "0"
@@ -3034,26 +1918,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B3-6",
             "head_card_ana": "S5",
-            "head_card_dig": "03"
+            "head_card_dig": "3"
         }
     },
-    "V02166B": {
+    "V04199A": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "2"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x330",
-            "crate": "1"
+            "board_slot": "11",
+            "board_id": "0x4B0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "3",
+            "board_chan": "7",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "5",
             "flange_id": "B19",
             "flange_pos": "Y",
             "crate": "0"
@@ -3065,26 +1949,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-0",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V04199A": {
+    "V04545A": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "3"
         },
         "daq": {
-            "board_ch": "1",
+            "board_ch": "4",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x330",
-            "crate": "1"
+            "board_slot": "11",
+            "board_id": "0x4B0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "4",
+            "board_chan": "0",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "6",
             "flange_id": "B20",
             "flange_pos": "Y",
             "crate": "0"
@@ -3096,26 +1980,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-1",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V04545A": {
+    "V05261B": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "4"
         },
         "daq": {
-            "board_ch": "2",
+            "board_ch": "5",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x330",
-            "crate": "1"
+            "board_slot": "11",
+            "board_id": "0x4B0",
+            "crate": "0"
         },
         "high_voltage": {
-            "board_chan": "5",
+            "board_chan": "1",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "6",
             "flange_id": "B21",
             "flange_pos": "Y",
             "crate": "0"
@@ -3127,26 +2011,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-2",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V05261B": {
+    "V05267B": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "5"
         },
         "daq": {
-            "board_ch": "3",
+            "board_ch": "0",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x330",
+            "board_slot": "1",
+            "board_id": "0x310",
             "crate": "1"
         },
         "high_voltage": {
-            "board_chan": "6",
+            "board_chan": "2",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "6",
             "flange_id": "B22",
             "flange_pos": "Y",
             "crate": "0"
@@ -3158,26 +2042,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-3",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V05267B": {
+    "V07646A": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "6"
         },
         "daq": {
-            "board_ch": "4",
+            "board_ch": "1",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x330",
+            "board_slot": "1",
+            "board_id": "0x310",
             "crate": "1"
         },
         "high_voltage": {
-            "board_chan": "7",
+            "board_chan": "3",
             "cable": "--",
-            "board_slot": "7",
+            "board_slot": "6",
             "flange_id": "B23",
             "flange_pos": "Y",
             "crate": "0"
@@ -3189,26 +2073,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-4",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V07646A": {
+    "V06659A": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "7"
         },
         "daq": {
-            "board_ch": "5",
+            "board_ch": "2",
             "adc_serial": "--",
-            "board_slot": "3",
-            "board_id": "0x330",
+            "board_slot": "1",
+            "board_id": "0x310",
             "crate": "1"
         },
         "high_voltage": {
-            "board_chan": "0",
+            "board_chan": "4",
             "cable": "--",
-            "board_slot": "8",
+            "board_slot": "6",
             "flange_id": "B24",
             "flange_pos": "Y",
             "crate": "0"
@@ -3220,26 +2104,26 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-5",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     },
-    "V06659A": {
+    "V02166B": {
         "system": "ged",
         "string": {
             "number": "12",
             "position": "8"
         },
         "daq": {
-            "board_ch": "0",
+            "board_ch": "3",
             "adc_serial": "--",
-            "board_slot": "4",
-            "board_id": "0x340",
+            "board_slot": "1",
+            "board_id": "0x310",
             "crate": "1"
         },
         "high_voltage": {
-            "board_chan": "1",
+            "board_chan": "5",
             "cable": "--",
-            "board_slot": "8",
+            "board_slot": "6",
             "flange_id": "B25",
             "flange_pos": "Y",
             "crate": "0"
@@ -3251,7 +2135,7 @@
             "raspberrypi": "1",
             "cc4_ch": "B4-6",
             "head_card_ana": "S2",
-            "head_card_dig": "05"
+            "head_card_dig": "5"
         }
     }
 }
